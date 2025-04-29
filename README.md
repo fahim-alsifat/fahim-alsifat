@@ -12,7 +12,7 @@
   
 </div>
 
-<img src="[https://raw.githubusercontent.com/fahim-alsifat/fahim-alsifat/main/assets/header-banner.png](https://i.ibb.co/8DS92FBr/White-Purple-Modern-Website-Design-And-Development-Outdoor-Banner.png)" width="100%">
+<img src="https://i.ibb.co/8DS92FBr/White-Purple-Modern-Website-Design-And-Development-Outdoor-Banner.png" width="100%">
 
 ## 🌟 Welcome to My Creative Universe
 
@@ -68,19 +68,16 @@ I believe great design solves problems beautifully. Every pixel, every color, ev
     <tr>
       <td align="center">
         <a href="https://fahimalsifat.my.canva.site/brand-identity-design">
-          <img src="https://via.placeholder.com/150?text=Brand+Identity" width="150" alt="Brand Identity Design"/>
           <br><b>Brand Identity</b>
         </a>
       </td>
       <td align="center">
         <a href="https://fahimalsifat.my.canva.site/digital-graphics">
-          <img src="https://via.placeholder.com/150?text=Digital" width="150" alt="Digital Graphics"/>
           <br><b>Digital Graphics</b>
         </a>
       </td>
       <td align="center">
         <a href="https://fahimalsifat.my.canva.site/print-design">
-          <img src="https://via.placeholder.com/150?text=Print" width="150" alt="Print Design"/>
           <br><b>Print Design</b>
         </a>
       </td>
@@ -88,19 +85,16 @@ I believe great design solves problems beautifully. Every pixel, every color, ev
     <tr>
       <td align="center">
         <a href="https://fahimalsifat.my.canva.site/youtube-graphics">
-          <img src="https://via.placeholder.com/150?text=YouTube" width="150" alt="YouTube Graphics"/>
           <br><b>YouTube Graphics</b>
         </a>
       </td>
       <td align="center">
         <a href="https://fahimalsifat.my.canva.site/social-media-graphics">
-          <img src="https://via.placeholder.com/150?text=Social+Media" width="150" alt="Social Media Graphics"/>
           <br><b>Social Media</b>
         </a>
       </td>
       <td align="center">
         <a href="#">
-          <img src="https://via.placeholder.com/150?text=Custom" width="150" alt="Custom Projects"/>
           <br><b>Custom Projects</b>
         </a>
       </td>
@@ -113,7 +107,7 @@ I believe great design solves problems beautifully. Every pixel, every color, ev
 ## 🌊 Aquatic World
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x300?text=My+Aquascaping+Journey" width="80%" alt="Aquascaping Journey"/>
+  
 </div>
 
 Beyond design, I'm deeply passionate about aquatic life. I maintain several thriving aquariums featuring:
@@ -195,6 +189,6 @@ Combining modern production techniques with timeless wisdom, I create accessible
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/fahim-alsifat/fahim-alsifat/main/assets/footer.gif" width="100%" alt="Footer Animation">
-  <p>Last updated: April 29, 2025</p>
+  <p>Last updated: 2025-04-29</p>
   <h3>✨ Thank you for visiting my creative space! ✨</h3>
 </div>
