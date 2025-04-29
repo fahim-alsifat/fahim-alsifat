@@ -18,7 +18,7 @@
   <a href="https://x.com/fahim_al_sifat"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/fahim_alsifat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/fahimalsifat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/fahimalsifat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/fahim-alsifat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahimalsifat&label=Profile+Views&color=blue&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=fahim-alsifat&label=Profile+Views&color=blue&style=plastic" />
 </p>
